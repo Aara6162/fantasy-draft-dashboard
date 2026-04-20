@@ -1,0 +1,12 @@
+# Dependency directories (THIS IS THE BIG ONE)
+node_modules/
+
+# Build output
+dist/
+
+# Environment variables (keeps your Firebase keys private if you use .env)
+.env
+.env.local
+
+# IDE settings
+.vscode/
